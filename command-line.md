@@ -29,7 +29,6 @@ _Girl Develop It is here to provide affordable and accessible programs to learn 
 * Introductions
 * Tools
 
-
 ---
 
 ## Tell Us About Yourself
@@ -74,13 +73,6 @@ A command-line interface is a means of interacting with a computer program where
 
 ---
 
-## Install iterm or cygwin
-
-* Unix based - OSX and Linux
-* Windows is different so Cygwin let's us use Linux commands
-
----
-
 ## Basic commands
 
 * pwd - Present working directory
@@ -97,6 +89,13 @@ A command-line interface is a means of interacting with a computer program where
 ## Shortcuts
 * Using tab to autocomplete
 & Press up
+
+---
+
+## Install iterm or cygwin
+
+* Unix based - OSX and Linux
+* Windows is different so Cygwin let's us use Linux commands
 
 ---
 
