@@ -3,9 +3,9 @@
 
 ---
 
-# Intro to Command Line <small class="gray">Class #1</small>
+# Intro to Command Line <small class="gray">Workshop</small>
 
-### GDI Cincinnati  <!-- .element: class="dark" -->
+### GDI Cincinnati
 
 ---
 
