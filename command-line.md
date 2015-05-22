@@ -81,10 +81,6 @@ A command-line interface is a means of interacting with a computer program where
 
 ---
 
-## What is a prompt?
-
----
-
 ## Basic commands
 
 * pwd - Present working directory
