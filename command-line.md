@@ -44,8 +44,8 @@ _Girl Develop It is here to provide affordable and accessible programs to learn 
 
 * __Browser:__ Chrome, [http://google.com/chrome](http://www.google.com/chrome/)
 * __Text Editor:__ Sublime Text 3, [http://sublimetext.com/3](http://www.sublimetext.com/3)
-* __Basic Console:__ Terminal for Mac, Powershell for Windows
-* __Better Console:__ iterm2 for Mac, Cygwin for Windows
+* __Basic Console:__ Terminal for Mac, Powershell for Windows (provided)
+* __Better Console:__ iterm2 for Mac, [https://www.iterm2.com/](https://www.iterm2.com/), Cygwin for Windows, [https://www.cygwin.com/](https://www.cygwin.com/)
 * __Need Help?__: Google (StackOverflow, MDN)
 
 ---
